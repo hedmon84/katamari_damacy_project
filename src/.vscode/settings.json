@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.py": "python",
+        "keypad.h": "c",
+        "screen.h": "c",
+        "system.h": "c"
+    }
+}
